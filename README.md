@@ -1,4 +1,4 @@
-srk
+
 .github/workflows/build-apk.yml
 name: Build SRK Media Player APK
 
